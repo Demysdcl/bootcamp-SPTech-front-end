@@ -1,0 +1,9 @@
+{
+	"useTabs": true,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"printWidth": 80,
+	"endOfLine": "lf",
+	"semi": false,
+	"svelteSortOrder": "scripts-markup-styles"
+}
