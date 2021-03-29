@@ -1,0 +1,18 @@
+{
+  "Print to console": {
+    "scope": "svelte",
+    "prefix": "svt",
+    "body": [
+      "<script lang=\"ts\">",
+      "</script>",
+      "",
+      "<div>",
+      "\t${1:edit}",
+      "</div>",
+      "",
+      "<style lang=\"scss\">",
+      "</style>",
+    ],
+    "description": "Log output to console"
+  }
+}

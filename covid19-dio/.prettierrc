@@ -1,0 +1,9 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "endOfLine": "lf",
+  "trailingComma": "all",
+  "printWidth": 80,
+  "svelteSortOrder": "scripts-markup-styles",
+  "tabWidth": 2
+}
